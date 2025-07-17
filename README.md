@@ -1,17 +1,8 @@
 # About Me
 
-A **Cyber Security Researcher** specializing in **multi-domain IT**. I analyze, uncover, and innovate at the cutting edge of technology, addressing vulnerabilities and designing solutions to enhance security.
-
-## Expertise
-- **Cyber Security**: Threat analysis, penetration testing, and advanced cryptography.
-- **Multi-Domain IT**: System architecture, integration, and optimization across diverse tech landscapes.
-- **Research & Development**: Turning challenges into scalable solutions.
-
-## Approach
-
-I don’t follow the path; I carve it. My work is guided by precision, stealth, and a commitment to pushing boundaries.
+I am a **Cyber Security Expert** with expertise across various domains. With deep knowledge in **AI Researcher** and a passion for **building innovative solutions**, I thrive in creating meaningful impact through technology.
 
 ---
 
-**Think Different. Build Different. Make a Differe
-nce.**
+**Think Different. Build Different. Make a Difference
+.**
