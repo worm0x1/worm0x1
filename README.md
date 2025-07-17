@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me
 
-<!--
-**worm0x1/worm0x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **Cyber Security Researcher** specializing in **multi-domain IT**. I analyze, uncover, and innovate at the cutting edge of technology, addressing vulnerabilities and designing solutions to enhance security.
 
-Here are some ideas to get you started:
+## Expertise
+- **Cyber Security**: Threat analysis, penetration testing, and advanced cryptography.
+- **Multi-Domain IT**: System architecture, integration, and optimization across diverse tech landscapes.
+- **Research & Development**: Turning challenges into scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Approach
+
+I don’t follow the path; I carve it. My work is guided by precision, stealth, and a commitment to pushing boundaries.
+
+---
+
+**Think Different. Build Different. Make a Differe
+nce.**
